@@ -1,0 +1,14 @@
+layout_spectrum: 0.003308677
+typography_spectrum: 0.1309986
+color:
+  saturation: 0.7231995
+  lightness: 0.8337123
+  brandStrength: 0.09924407
+  rhythmicContrast: 0.2066463
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: McDavid Drawing
