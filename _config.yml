@@ -2,6 +2,7 @@ name: McDavid Drawing
 favicon: null
 layout_spectrum: 0.96687
 typography_spectrum: 0.1309986
+title: mcdavid drawing
 cta:
   domain: null
   bucket: null
