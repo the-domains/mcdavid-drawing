@@ -1,29 +1,41 @@
-name: McDavid Drawing
-favicon: null
-layout_spectrum: 0.96687
-typography_spectrum: 0.1309986
 title: mcdavid drawing
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.2432868
+  brandStrength: 0.125
+  lightness: 0.6063373
+  brandColors:
+    - '#E5D8B6'
+    - '#D6C6A5'
+    - '#372D36'
+    - '#B1A196'
+    - '#655661'
+  rhythmicContrast: 1
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: McDavid Drawing
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#d9c9b6'
-    - '#c7b89f'
-    - '#7d7081'
-    - '#9f9289'
-    - '#54465d'
-  brandStrength: 0.125
-  lightness: 0.625
-  saturation: 0.875
-  rhythmicContrast: 1
-purpose: []
+typography_spectrum: 0.8737916
+layout_spectrum: 1
